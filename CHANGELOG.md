@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/albertparlys/amazing-github-template/compare/v1.0.0...v2.0.0) (2022-10-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* this repo may be rebuild
+
+### Bug Fixes
+
+* fix github actions fail on build ([cbeb883](https://github.com/albertparlys/amazing-github-template/commit/cbeb883bc72d822b59a9ecc6bc6a175059b045a3))
+
 ## 1.0.0 (2022-10-21)
 
 
