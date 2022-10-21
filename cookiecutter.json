@@ -22,6 +22,7 @@
   "include_acknowledgements": "y",
   "include_code_of_conduct": "y",
   "include_workflows": "y",
+  "include_changelog": "y",
   "use_codeql": "y",
   "use_conventional_commits": "y",
   "use_github_discussions": "n"

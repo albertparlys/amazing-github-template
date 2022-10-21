@@ -39,3 +39,6 @@ if __name__ == "__main__":
 
     if "{{ cookiecutter.use_codeql }}" != "y":
         remove(".github/workflows/codeql.yml")
+
+    if "{{ cookiecutter.use_codeql }}" != "y":
+        remove(".github/CHANGELOG.yml")
