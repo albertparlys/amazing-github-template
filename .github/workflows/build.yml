@@ -28,7 +28,7 @@ jobs:
           repo_slug="REPO_SLUG"
           github_username="GITHUB_USERNAME"
           full_name="FULL_NAME"
-          open_source_license="OPEN_SOURCE_LICENSE"
+          open_source_license="MIT license"
           modern_header="y"
           table_in_about="n"
           include_logo="y"
