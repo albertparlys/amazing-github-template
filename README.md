@@ -114,7 +114,7 @@ For other install options, please refer to [Cookiecutter installation manual](ht
 After installing Cookiecutter, all you need to do is to run the following command:
 
 ```sh
-cookiecutter gh:dec0dOS/amazing-github-template
+cookiecutter gh:albertparlys/amazing-github-template
 ```
 
 You will get an interactive prompt where you'll specify relevant options for your project (or the default value will be used).
