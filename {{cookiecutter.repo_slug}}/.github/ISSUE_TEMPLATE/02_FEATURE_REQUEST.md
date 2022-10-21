@@ -3,7 +3,7 @@ name: Feature Request
 about: Suggest an idea for this project
 title: "feat: "
 labels: "enhancement"
-assignees: ""
+assignees: albertparlys
 ---
 
 # Feature Request
@@ -33,3 +33,11 @@ _(Help can be provided if you need assistance submitting a PR)_
 
 - [ ] Yes
 - [ ] No
+<!--📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛
+
+Oh, hi there! 😄
+
+To expedite issue processing, please search open and closed issues before submitting a new one.
+Please read our Rules of Conduct at this repository's `.github/CODE_OF_CONDUCT.md`
+
+📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛-->
