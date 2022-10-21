@@ -1,8 +1,8 @@
 {
   "project_name": "My Amazing Project",
   "repo_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-').replace('_', '-') }}",
-  "github_username": "dec0dOS",
-  "full_name": "Alexey Potapov",
+  "github_username": "albertparlys",
+  "full_name": "Albert Parlys Tambunan",
   "open_source_license": [
     "MIT license",
     "BSD license",
